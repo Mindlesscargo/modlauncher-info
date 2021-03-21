@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "minecraft-version": "forge-1.16.5-36.1.0",
   "mods": [
     {"name": "Create", "link": "https://www.curseforge.com/minecraft/mc-mods/create/download/3167531/file"}
