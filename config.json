@@ -1,8 +1,9 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minecraft-version": "1.16.5",
   "forge-version": "36.1.0",
   "mods": [
-    {"name": "Create", "fileName": "create-mc1.16.3_v0.3e.jar", "link": "https://media.forgecdn.net/files/3167/531/create-mc1.16.3_v0.3e.jar"}
+    {"name": "Create", "fileName": "create-mc1.16.3_v0.3e.jar", "link": "https://media.forgecdn.net/files/3167/531/create-mc1.16.3_v0.3e.jar"},
+    {"name": "Just Enough Items", "fileName": "jei_1.12.2-4.16.1.301.jar", "link": "https://media.forgecdn.net/files/3040/523/jei_1.12.2-4.16.1.301.jar"}
   ]
 }
