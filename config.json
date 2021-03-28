@@ -4,6 +4,8 @@
   "forge-version": "36.1.0",
   "mods": [
     {"name": "Create", "fileName": "create-mc1.16.3_v0.3e.jar", "id":"3167531"},
-    {"name": "Just Enough Items", "fileName": "jei-1.16.5-7.6.1.75.jar", "id":"3245079"}
+    {"name": "Journey Map", "fileName": "journeymap-1.16.5-5.7.1", "id":"3222876"},
+    {"name": "Chisel", "fileName": "Chisel-MC1.12.2-1.0.2.45.jar", "id": "2915375"},
+    {"name": "Just Enough Items", "fileName": "jei-1.16.5-7.6.1.75.jar", "id": "324579"}
   ]
 }
