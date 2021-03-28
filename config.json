@@ -4,6 +4,6 @@
   "forge-version": "36.1.0",
   "mods": [
     {"name": "Create", "fileName": "create-mc1.16.3_v0.3e.jar", "id":"3167531"},
-    {"name": "Just Enough Items", "fileName": "jei_1.12.2-4.16.1.301.jar", "id":"3245079"}
+    {"name": "Just Enough Items", "fileName": "jei-1.16.5-7.6.1.75.jar", "id":"3245079"}
   ]
 }
